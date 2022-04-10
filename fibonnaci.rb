@@ -1,4 +1,4 @@
-#Frozen_string_literal: true
+# Frozen_string_literal: true
 
 # Returns array of fibonacci sequence
 def fibs(index)
